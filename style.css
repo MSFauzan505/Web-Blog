@@ -5,6 +5,7 @@ html{
     margin: 0;
     box-sizing: border-box;
     font-family: sans-serif;
+    scroll-behavior: smooth;
 }
 body{
     background-color: beige;
