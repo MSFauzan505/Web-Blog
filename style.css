@@ -1,3 +1,7 @@
 body{
     background-color: red;
 }
+p{
+    color: tomato;
+    font-size: 1rem;
+}
