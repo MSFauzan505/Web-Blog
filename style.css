@@ -6,6 +6,9 @@ html{
     box-sizing: border-box;
     font-family: sans-serif;
 }
+body{
+    background-color: beige;
+}
 p{
     color: red;
     padding: 20px;
