@@ -30,3 +30,10 @@ button{
     cursor: pointer;
     transition: 0.3s;
 }
+input{
+    border: black solid 1px;
+    border-radius: 10px;
+    padding: 4px 20px;
+    margin: 5px;
+    cursor: pointer;
+}
