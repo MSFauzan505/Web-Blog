@@ -1,16 +1,13 @@
-<<<<<<< HEAD
+
 *,
 html{
     padding: 0;
     margin: 0;
     box-sizing: border-box;
     font-family: sans-serif;
-=======
-body{
-    background-color: red;
 }
 p{
-    color: tomato;
-    font-size: 1rem;
->>>>>>> 2166612a59ff54b5fe9fd60ddd9a577e37fcf6c1
+    color: red;
+    padding: 20px;
+    font-size: 2rem;
 }
