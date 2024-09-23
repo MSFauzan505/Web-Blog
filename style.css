@@ -25,10 +25,14 @@ button{
     background: lightblue;
     border-radius: 10px;
     font-size: 2rem;
+
+    
+
     padding: 5px;
     margin: 10px;
     cursor: pointer;
     transition: 0.3s;
+
 }
 input{
     border: black solid 1px;
